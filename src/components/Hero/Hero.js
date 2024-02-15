@@ -92,7 +92,7 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <ScrollAnimation animateIn="fadeIn">
-              <Image src="/man-svgrepo-com.svg" alt="man-svgrepo" />
+              <Image src="/VijayJangal.png" alt="man-svgrepo" />
             </ScrollAnimation>
           </HeroRight>
         </HeroWrapper>
