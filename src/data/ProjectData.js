@@ -23,7 +23,7 @@ export const ProjectList = [
     title: "Spotify Clone",
     description:
       "In this project i have used the spotify api for developers to get the songs and my account from spotify and add functionalities accordingly.",
-    tech_stack: ["ReactJs","React-Context-Api","Spotify-Api"],
+    tech_stack: ["ReactJs", "React-Context-Api", "Spotify-Api"],
     github_url: "https://github.com/Vsjangal/SpotifyCloneRepo",
     demo_url: "",
   },
@@ -32,7 +32,7 @@ export const ProjectList = [
     title: "Social media website",
     description:
       "This project is done while i was learning it is a simple website on which you can like,comment and interact with someone's post.",
-    tech_stack: ["HTML", "CSS", "Javascript","NodeJs"],
+    tech_stack: ["HTML", "CSS", "Javascript", "NodeJs"],
     github_url: "https://github.com/Vsjangal/social_media",
     demo_url: "",
   },
@@ -86,6 +86,10 @@ export const stackList = [
     name: "C",
   },
   {
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg",
+    name: "C++",
+  },
+  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
     name: "MySQL",
   },
@@ -94,11 +98,15 @@ export const stackList = [
     name: "Bootstrap",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
     name: "TailwindCSS",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
     name: "VS Code",
+  },
+  {
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg",
+    name: "Solidity",
   },
 ];

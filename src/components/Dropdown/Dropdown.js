@@ -4,7 +4,7 @@ import styled from "@emotion/styled";
 import { Link as ScrollLink } from "react-scroll";
 
 const SiderBar = styled.div`
-  background: #151418;
+  background: #000000;
   position: fixed;
   height: 100%;
   width: 100%;
@@ -61,25 +61,13 @@ function Dropdown({ isOpen, toggle }) {
     <SiderBar isOpen={isOpen} onClick={toggle}>
       <CloseIcon onClick={toggle} />
       <NavMenu>
-        <NavLink
-          onClick={toggle}
-          className="menu-item"
-          to="projects"
-        >
+        <NavLink onClick={toggle} className="menu-item" to="projects">
           Projects
         </NavLink>
-        <NavLink
-          onClick={toggle}
-          className="menu-item"
-          to="about"
-        >
+        <NavLink onClick={toggle} className="menu-item" to="about">
           About
         </NavLink>
-        <NavLink
-          onClick={toggle}
-          className="menu-item"
-          to="contact"
-        >
+        <NavLink onClick={toggle} className="menu-item" to="contact">
           Contact
         </NavLink>
       </NavMenu>
