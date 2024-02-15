@@ -20,26 +20,25 @@ function About() {
           </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-              Hello! My name is <strong>Vijay Jangal</strong>. I'm originally
-              from Brazil and have been living in Canada for the past three
-              years. During my time here, I gained valuable experience through
-              various entry-level positions, which greatly enhanced my work
-              ethic, communication skills, and adaptability.
+              Hello, I'm <strong>Vijay Jangal</strong>, a recent graduate from
+              the <strong>Indian Institute of Technology Guwahati</strong> with
+              a Bachelor's degree. Throughout my academic journey, I've engaged
+              in a variety of projects and internships that have broadened my
+              understanding of the tech industry. I've cultivated a diverse
+              skill set and a passion for creating innovative solutions.
             </ScrollAnimation>
 
             <br />
             <br />
 
             <ScrollAnimation animateIn="fadeInRight">
-              My journey into the world of technology began with a strong
-              passion for problem-solving, which led me to pursue the Computer
-              Systems Technology program. Despite its challenges, I remained
-              determined and forged lasting friendships that supported me
-              throughout this demanding program. Throughout my studies at BCIT,
-              I had the opportunity to engage in fascinating projects. Notably,
-              I contributed to the development of the RENR Safety App and
-              MyMind, projects that garnered recognition from my colleagues,
-              instructors, and clients alike.
+              Beyond my academic and professional experiences, I've pursued
+              personal projects that reflect my interest in technology and its
+              applications. I'm
+              driven by a curiosity to explore new technologies and bring ideas
+              to life. As I embark on the next phase of my journey, I'm eager to
+              continue learning and contributing to impactful projects that
+              shape the future of technology.
             </ScrollAnimation>
 
             <br />
