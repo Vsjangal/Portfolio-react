@@ -6,7 +6,7 @@ function ExperienceCard() {
     <>
       {ExperienceList.map((list, index) => (
         <ScrollAnimation
-          animateIn={index % 2 == 0 ? "fadeInLeft" : "fadeInRight"}
+          animateIn={index % 2 === 0 ? "fadeInLeft" : "fadeInRight"}
           key={index}
         >
           <Card>
