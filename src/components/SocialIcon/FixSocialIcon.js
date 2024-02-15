@@ -74,15 +74,6 @@ function FixSocialIcon() {
               <FaGithub />
             </a>
           </li>
-          <li className="item">
-            <a
-              href="https://github.com/Vsjangal"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FaGithub />
-            </a>
-          </li>
         </ul>
       </ScrollAnimation>
     </SocialContainer>
