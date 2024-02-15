@@ -18,7 +18,7 @@ function Experience() {
           transform="rotate(-180 720 200)"
         ></path>
       </svg>
-      <div className="ProjectWrapper" id="projects">
+      <div className="ProjectWrapper" id="experiences">
         <div className="Container">
           <div className="SectionTitle">Experiences</div>
           <ExperienceCard />

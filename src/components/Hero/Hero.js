@@ -63,7 +63,7 @@ function Hero() {
                     // 1000,
                     // "Uhh...",
                     // 1000,
-                    "Uhh... you can scroll down to see my projects now...",
+                    "Uhh... you can scroll down to see my experience and projects now...",
                     300,
                     () => setShowScrollDown(true),
                     1000,
@@ -98,7 +98,7 @@ function Hero() {
         </HeroWrapper>
         {showScrollDown && (
           <ScrollAnimation animateIn="flipInX" offset={0}>
-            <ScrollDown to="projects" id="scrollDown">
+            <ScrollDown to="experiences" id="scrollDown">
               <ScrollLink>
                 Scroll down
                 <img src="/scroll-down.svg" alt="scroll-down" />

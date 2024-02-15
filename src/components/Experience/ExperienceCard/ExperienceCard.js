@@ -19,9 +19,13 @@ function ExperienceCard() {
               <br />
               <p>{list.date}</p>
             </CardLeft>
-            <CardRight>{list.details.map((detail,index) =>(
-              <p>{detail}</p>
-            ))}</CardRight>
+            <CardRight>
+              <ul>
+                {list.details.map((detail, index) => (
+                  <li key={index}>{detail}</li>
+                ))}
+              </ul>
+            </CardRight>
           </Card>
         </ScrollAnimation>
       ))}

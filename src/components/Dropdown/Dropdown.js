@@ -61,6 +61,9 @@ function Dropdown({ isOpen, toggle }) {
     <SiderBar isOpen={isOpen} onClick={toggle}>
       <CloseIcon onClick={toggle} />
       <NavMenu>
+        <NavLink onClick={toggle} className="menu-item" to="experiences">
+          Experiences
+        </NavLink>
         <NavLink onClick={toggle} className="menu-item" to="projects">
           Projects
         </NavLink>
@@ -71,12 +74,13 @@ function Dropdown({ isOpen, toggle }) {
           Contact
         </NavLink>
       </NavMenu>
-      <NavBtn onClick={toggle}>
+      <NavBtn>
         <a
           className="btn PrimaryBtn"
-          href="https://linkedin.com/in/vijay-jangal"
+          href="/Vijay_jangal_resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
+          download="Vijay_Jangal_Resume.pdf"
         >
           Resume
         </a>

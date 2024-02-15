@@ -34,22 +34,23 @@ function About() {
             <ScrollAnimation animateIn="fadeInLeft">
               Beyond my academic and professional experiences, I've pursued
               personal projects that reflect my interest in technology and its
-              applications. I'm
-              driven by a curiosity to explore new technologies and bring ideas
-              to life. As I embark on the next phase of my journey, I'm eager to
-              continue learning and contributing to impactful projects that
-              shape the future of technology.
+              applications. I'm driven by a curiosity to explore new
+              technologies and bring ideas to life. As I embark on the next
+              phase of my journey, I'm eager to continue learning and
+              contributing to impactful projects that shape the future of
+              technology.
             </ScrollAnimation>
 
             <br />
             <br />
 
             <ScrollAnimation animateIn="fadeInRight">
-              Working collaboratively within a team towards a shared objective
-              has been an incredibly rewarding and unique experience for me. I
-              am eager to continue exploring exciting projects in the future,
-              with a particular interest in web development and cross-platform
-              mobile development.
+              Working collaboratively within a team towards shared objectives
+              has been incredibly rewarding, fueling my personal growth and
+              fostering innovation. With a keen interest in web development and
+              cross-platform mobile development, I'm excited about exploring new
+              projects. Eager to contribute my skills and embrace challenges,
+              I'm ready to embark on the next phase of my journey in technology.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>

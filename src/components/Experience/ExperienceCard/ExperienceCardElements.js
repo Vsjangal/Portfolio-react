@@ -28,7 +28,7 @@ export const CardLeft = styled.div`
 export const CardRight = styled.div`
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
 
   h4 {
@@ -36,20 +36,24 @@ export const CardRight = styled.div`
     font-weight: 400;
   }
 
-  p {
+  ul {
     font-weight: 400;
-    max-width: 95%;
+    max-width: 90%;
     margin-top: 10px;
     margin-bottom: 1rem;
     color: rgba(0, 0, 0, 0.815);
-    text-align: center;
 
+    text-align: start;
     @media (min-width: 992px) {
       text-align: start;
     }
   }
   @media (min-width: 992px) {
     align-items: flex-start;
+    margin-top: 1rem;
+  }
+
+  li {
     margin-top: 1rem;
   }
 `;

@@ -8,6 +8,9 @@ const Header = ({ toggle }) => {
           <img src="/logo1.png" alt="logo" />
         </Logo>
         <NavMenu>
+          <NavLink className="menu-item" to="experiences">
+            Experiences
+          </NavLink>
           <NavLink className="menu-item" to="projects">
             Projects
           </NavLink>
@@ -26,7 +29,7 @@ const Header = ({ toggle }) => {
             rel="noopener noreferrer"
             download="Vijay_Jangal_Resume.pdf"
           >
-           Resume
+            Resume
           </a>
         </NavBtn>
         <Bars onClick={toggle} />
