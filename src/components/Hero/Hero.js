@@ -12,7 +12,6 @@ import {
 } from "./HeroElements";
 import { TypeAnimation } from "react-type-animation";
 import ScrollAnimation from "react-animate-on-scroll";
-
 function Hero() {
   const [isOpen, setIsOpen] = useState(false);
   const [showSubtitle, setShowSubtitle] = useState(false);
@@ -47,7 +46,7 @@ function Hero() {
                     "A Full-Stack Developer.",
                     1000,
                     "An IIT graduate.",
-                    'I design and code beautifully simple things, and I love what I do.',
+                    "I design and code beautifully simple things, and I love what I do.",
                     1000,
                     "A problem solver.",
                     1000,
@@ -92,7 +91,7 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <ScrollAnimation animateIn="fadeIn">
-              <Image src="/VijayJangal.png" alt="man-svgrepo" />
+              <Image src="./VijayJangal.png" alt="man-svgrepo" />
             </ScrollAnimation>
           </HeroRight>
         </HeroWrapper>
@@ -101,7 +100,7 @@ function Hero() {
             <ScrollDown to="experiences" id="scrollDown">
               <ScrollLink>
                 Scroll down
-                <img src="/scroll-down.svg" alt="scroll-down" />
+                <img src="./scroll-down.svg" alt="scroll-down" />
               </ScrollLink>
             </ScrollDown>
           </ScrollAnimation>

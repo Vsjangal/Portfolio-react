@@ -1,6 +1,6 @@
 export const ProjectList = [
   {
-    img: "/project1.png",
+    img: "./project1.png",
     title: "GameSpace",
     description:
       "Gamespace is a website consists of five games such as chess, tic-tac-toe, sudoku,minesweeper, 2048 in this you have different modes like offline,online and vs computer.",
@@ -9,7 +9,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/project2.png",
+    img: "./project2.png",
     title: "PES using NN and GPR",
     description:
       "In this project i have used used python and numerous libraries like keras, tenserflow to create neural network and numpy, pandas etc. for organizing and visualizing data.",
@@ -19,7 +19,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/project3.png",
+    img: "./project3.png",
     title: "Spotify Clone",
     description:
       "In this project i have used the spotify api for developers to get the songs and my account from spotify and add functionalities accordingly.",
@@ -28,7 +28,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/project4.png",
+    img: "./project4.png",
     title: "Social media website",
     description:
       "This project is done while i was learning it is a simple website on which you can like,comment and interact with someone's post.",
