@@ -18,7 +18,7 @@ To get started with this project, follow these steps:
 3. Install nodemodules and package.lock.json
     ```bash
     npm install
-    or npm install --force if that simple simple install don't work as expected
+    or npm install --force if that simple install don't work as expected
 4. Then start the localhost using command
     ```bash
     npm start
