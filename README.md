@@ -15,10 +15,10 @@ To get started with this project, follow these steps:
    ```bash
    cd you project
 
-3. Install nodemodules and package.lock.json
+3. Install node modules
     ```bash
     npm install
-    or npm install --force if that simple install don't work as expected
+    or npm install --force
 4. Then start the localhost using command
     ```bash
     npm start
