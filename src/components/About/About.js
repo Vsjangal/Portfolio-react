@@ -8,6 +8,7 @@ import {
   TechName,
   ContactWrapper,
 } from "./AboutElements";
+import VijayJangal from "../../assets/VijayJangal.png"
 import ScrollAnimation from "react-animate-on-scroll";
 function About() {
   return (
@@ -16,7 +17,7 @@ function About() {
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
           <ScrollAnimation animateIn="fadeInLeft">
-            <Image src="./VijayJangal.png" alt="man-svgrepo" />
+            <Image src={VijayJangal} alt="man-svgrepo" />
           </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInRight">
