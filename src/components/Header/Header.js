@@ -1,11 +1,12 @@
 import React from "react";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
+import logo from "../../assets/logo1.png";
 const Header = ({ toggle }) => {
   return (
     <div className="Container" style={{ padding: 0 }}>
       <Nav>
         <Logo to="/">
-          <img src="./logo1.png" alt="logo" />
+          <img src={logo} alt="logo" />
         </Logo>
         <NavMenu>
           <NavLink className="menu-item" to="experiences">

@@ -12,6 +12,8 @@ import {
 } from "./HeroElements";
 import { TypeAnimation } from "react-type-animation";
 import ScrollAnimation from "react-animate-on-scroll";
+import VijayJangal from "../../assets/VijayJangal.png";
+import scrolldown from "../../assets/scroll-down.svg";
 function Hero() {
   const [isOpen, setIsOpen] = useState(false);
   const [showSubtitle, setShowSubtitle] = useState(false);
@@ -52,32 +54,13 @@ function Hero() {
                     1000,
                     "An innovative thinker.",
                     1000,
-                    // "A....",
-                    // 1000,
-                    // "A.... cool guy?",
-                    // 1000,
-                    // "Ok...",
-                    // 1000,
-                    // "Ok...  I'm running out of ideas...",
-                    // 1000,
-                    // "Uhh...",
-                    // 1000,
                     "Uhh... you can scroll down to see my experience and projects now...",
                     300,
                     () => setShowScrollDown(true),
                     1000,
-                    // "Seriously, my projects are really cool, go check them out!",
-                    // 1000,
-                    // "You're uh...",
-                    // 1000,
                     "You're uh... still here?",
                     1000,
                     "Ok, this has been fun, but I'm gonna restart the loop now...",
-                    // 1000,
-                    // // "Or...",
-                    // // 1000,
-                    // // "Or... I could scroll you by force! Muahaha!",
-                    // 1000,
                     "See ya! :)",
                     500,
                   ]}
@@ -91,7 +74,7 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <ScrollAnimation animateIn="fadeIn">
-              <Image src="./VijayJangal.png" alt="man-svgrepo" />
+              <Image src={VijayJangal} alt="man-svgrepo" />
             </ScrollAnimation>
           </HeroRight>
         </HeroWrapper>
@@ -100,7 +83,7 @@ function Hero() {
             <ScrollDown to="experiences" id="scrollDown">
               <ScrollLink>
                 Scroll down
-                <img src="./scroll-down.svg" alt="scroll-down" />
+                <img src={scrolldown} alt="scroll-down" />
               </ScrollLink>
             </ScrollDown>
           </ScrollAnimation>
