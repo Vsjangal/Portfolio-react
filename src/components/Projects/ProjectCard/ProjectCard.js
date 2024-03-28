@@ -23,10 +23,10 @@ function ProjectCard() {
               >
                   <Card>
                       <CardLeft>
-                          {index == 0 && <img src={project1} alt={list.name} />}
-                          {index == 1 && <img src={project2} alt={list.name} />}
-                          {index == 2 && <img src={project3} alt={list.name} />}
-                          {index == 3 && <img src={project4} alt={list.name} />}
+                          {index === 0 && <img src={project1} alt={list.name} />}
+                          {index === 1 && <img src={project2} alt={list.name} />}
+                          {index === 2 && <img src={project3} alt={list.name} />}
+                          {index === 3 && <img src={project4} alt={list.name} />}
                       </CardLeft>
                       <CardRight>
                           <h4>{list.title}</h4>
