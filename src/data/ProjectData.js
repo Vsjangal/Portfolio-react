@@ -5,7 +5,7 @@ export const ProjectList = [
     description:
       "Gamespace is a website consists of five games such as chess, tic-tac-toe, sudoku,minesweeper, 2048 in this you have different modes like offline,online and vs computer.",
     tech_stack: ["HTML", "CSS", "JavaScript", "NodeJS", "Mongodb"],
-    github_url: "https://github.com/Vsjangal/Gamespace",
+    github_url: "https://github.com/Vsjangal/Game-Space",
     demo_url: "",
   },
   {
@@ -27,15 +27,15 @@ export const ProjectList = [
     github_url: "https://github.com/Vsjangal/SpotifyCloneRepo",
     demo_url: "",
   },
-  {
-    img: "./project4.png",
-    title: "Social media website",
-    description:
-      "This project is done while i was learning it is a simple website on which you can like,comment and interact with someone's post.",
-    tech_stack: ["HTML", "CSS", "Javascript", "NodeJs"],
-    github_url: "https://github.com/Vsjangal/social_media",
-    demo_url: "",
-  },
+  // {
+  //   img: "./project4.png",
+  //   title: "Social media website",
+  //   description:
+  //     "This project is done while i was learning it is a simple website on which you can like,comment and interact with someone's post.",
+  //   tech_stack: ["HTML", "CSS", "Javascript", "NodeJs"],
+  //   github_url: "https://github.com/Vsjangal/social_media",
+  //   demo_url: "",
+  // },
 ];
 
 // --------------------------------------- Skills
