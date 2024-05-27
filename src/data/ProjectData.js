@@ -6,7 +6,7 @@ export const ProjectList = [
       "Gamespace is a website consists of five games such as chess, tic-tac-toe, sudoku,minesweeper, 2048 in this you have different modes like offline,online and vs computer.",
     tech_stack: ["HTML", "CSS", "JavaScript", "NodeJS", "Mongodb"],
     github_url: "https://github.com/Vsjangal/Game-Space",
-    demo_url: "",
+    demo_url: "https://gamespace-33gv.onrender.com/",
   },
   {
     img: "./project2.png",
