@@ -9,7 +9,7 @@ export const ProjectList = [
     demo_url: "https://gamespace-33gv.onrender.com/",
   },
   {
-    img: "./project3.png",
+    img: "./project2.png",
     title: "News-webapp",
     description:
       "In this project i have create a new website which contains various categories of news like sports,bussiness etc. Also implemented search funtionality.",
@@ -18,7 +18,7 @@ export const ProjectList = [
     demo_url: "https://quick-news-three.vercel.app/",
   },
   {
-    img: "./project2.png",
+    img: "./project3.png",
     title: "PES using NN and GPR",
     description:
       "In this project i have used used python and numerous libraries like keras, tenserflow to create neural network and numpy, pandas etc. for organizing and visualizing data.",
