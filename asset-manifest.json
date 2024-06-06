@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio-react/static/css/main.fd676ec1.css",
-    "main.js": "/Portfolio-react/static/js/main.b9df5fe2.js",
-    "static/media/project3.png": "/Portfolio-react/static/media/project3.7a57e7fb92aeae8dc703.png",
+    "main.js": "/Portfolio-react/static/js/main.0ab7dd76.js",
+    "static/media/project3.png": "/Portfolio-react/static/media/project3.1eec324702bada9e42e1.png",
     "static/media/project1.png": "/Portfolio-react/static/media/project1.4df159fa8df32a39379d.png",
     "static/media/VijayJangal.png": "/Portfolio-react/static/media/VijayJangal.b3f2d3c4971e0d524c3d.png",
     "static/media/project4.png": "/Portfolio-react/static/media/project4.9729b54cf8bbe68351ba.png",
@@ -11,10 +11,10 @@
     "index.html": "/Portfolio-react/index.html",
     "static/media/blob-haikei.svg": "/Portfolio-react/static/media/blob-haikei.50cf32a913bbd8763485.svg",
     "main.fd676ec1.css.map": "/Portfolio-react/static/css/main.fd676ec1.css.map",
-    "main.b9df5fe2.js.map": "/Portfolio-react/static/js/main.b9df5fe2.js.map"
+    "main.0ab7dd76.js.map": "/Portfolio-react/static/js/main.0ab7dd76.js.map"
   },
   "entrypoints": [
     "static/css/main.fd676ec1.css",
-    "static/js/main.b9df5fe2.js"
+    "static/js/main.0ab7dd76.js"
   ]
 }
