@@ -9,6 +9,15 @@ export const ProjectList = [
     demo_url: "https://gamespace-33gv.onrender.com/",
   },
   {
+    img: "./project3.png",
+    title: "News-webapp",
+    description:
+      "In this project i have create a new website which contains various categories of news like sports,bussiness etc. Also implemented search funtionality.",
+    tech_stack: ["ReactJs", "Context", "News-Api", "Redux"],
+    github_url: "https://github.com/Vsjangal/SpotifyCloneRepo",
+    demo_url: "https://quick-news-three.vercel.app/",
+  },
+  {
     img: "./project2.png",
     title: "PES using NN and GPR",
     description:
@@ -16,15 +25,6 @@ export const ProjectList = [
     tech_stack: ["Python", "Keras and Tensorflow", "Numpy"],
     github_url:
       "https://github.com/Vsjangal/B.tech-Project--Predicting-PES-Using-ANN-and-GPR",
-    demo_url: "",
-  },
-  {
-    img: "./project3.png",
-    title: "Spotify Clone",
-    description:
-      "In this project i have used the spotify api for developers to get the songs and my account from spotify and add functionalities accordingly.",
-    tech_stack: ["ReactJs", "React-Context-Api", "Spotify-Api"],
-    github_url: "https://github.com/Vsjangal/SpotifyCloneRepo",
     demo_url: "",
   },
   // {
