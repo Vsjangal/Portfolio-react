@@ -10,6 +10,15 @@ export const ProjectList = [
   },
   {
     img: "./project2.png",
+    title: "Restaurent Website",
+    description:
+      "This is a react based restaurent website which is styled using tailwind css and responsive web design.",
+    tech_stack: ["ReactJS", "Tailwind CSS", "React router", "Toastify"],
+    github_url: "https://github.com/Vsjangal/social_media",
+    demo_url: "https://restaurent-webapp.vercel.app/",
+  },
+  {
+    img: "./project3.png",
     title: "News-webapp",
     description:
       "In this project i have create a new website which contains various categories of news like sports,bussiness etc. Also implemented search funtionality.",
@@ -18,7 +27,7 @@ export const ProjectList = [
     demo_url: "https://quick-news-three.vercel.app/",
   },
   {
-    img: "./project3.png",
+    img: "./project4.png",
     title: "PES using NN and GPR",
     description:
       "In this project i have used used python and numerous libraries like keras, tenserflow to create neural network and numpy, pandas etc. for organizing and visualizing data.",
@@ -27,15 +36,6 @@ export const ProjectList = [
       "https://github.com/Vsjangal/B.tech-Project--Predicting-PES-Using-ANN-and-GPR",
     demo_url: "",
   },
-  // {
-  //   img: "./project4.png",
-  //   title: "Social media website",
-  //   description:
-  //     "This project is done while i was learning it is a simple website on which you can like,comment and interact with someone's post.",
-  //   tech_stack: ["HTML", "CSS", "Javascript", "NodeJs"],
-  //   github_url: "https://github.com/Vsjangal/social_media",
-  //   demo_url: "",
-  // },
 ];
 
 // --------------------------------------- Skills
@@ -64,6 +64,26 @@ export const stackList = [
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
     name: "Git",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg",
+    name: "Docker",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg",
+    name: "Django",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg",
+    name: "flutter",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg",
+    name: "Postgres",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg",
+    name: "Postman",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
