@@ -1,5 +1,21 @@
 import React from "react";
 import ExperienceCard from "./ExperienceCard/ExperienceCard";
+import styled from "styled-components";
+
+const Section = styled.div`
+  position: relative;
+  padding: 4rem 0;
+  background: #f9f9f9;
+  text-align: center;
+`;
+
+const SectionTitle = styled.div`
+  font-size: 3rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 2rem;
+`;
+
 function Experience() {
   return (
     <>
@@ -18,12 +34,12 @@ function Experience() {
           transform="rotate(-180 720 200)"
         ></path>
       </svg>
-      <div className="ProjectWrapper" id="experiences">
+      <Section id="experiences">
         <div className="Container">
-          <div className="SectionTitle">Experiences</div>
+          <SectionTitle>Experiences</SectionTitle>
           <ExperienceCard />
         </div>
-      </div>
+      </Section>
     </>
   );
 }

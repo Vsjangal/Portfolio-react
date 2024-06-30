@@ -4,9 +4,9 @@ export const ExperienceList = [
     company: "Elastic Devs",
     date: "Jan 2024 - present",
     details: [
-      "Led frontend team for GPU.net (a blockchain based GPU renting platform), playing a key role in the project’s successful launch, which secured $5M in funding upon its release. Managed UI implementation, developing marketplace UI, landing page, and wallet integration.",
-      "Led the development of Glibzter (a personality development platform) admin panel and homepage, improving user ex- perience. Implemented user-friendly admin features and engaging UI components to enhance functionality and usability.",
-      "Worked on the migration of Pro Kick Sports (an online sports store) from Shopify to a custom solution, focusing on optimizing costs and enhancing customization to make operations smoother and promote business growth."
+      "Led frontend team for GPU.net, securing $5M in funding. Managed UI, marketplace UI, landing page, and wallet integration.",
+      "Led Glibzter admin panel and homepage development. Improved user experience with user-friendly admin features and engaging UI.",
+      "Migrated Pro Kick Sports from Shopify to a custom solution. Optimized costs and enhanced customization for smoother operations.",
     ],
   },
   {
@@ -20,8 +20,8 @@ export const ExperienceList = [
     ],
   },
   {
-    title: "React-native intern",
-    company: "Stealth Startup",
+    title: "Freelancer",
+    company: "Stealth",
     date: "15 Nov 2023 - 15 Jan 2024",
     details: [
       "Enhanced and implemented multiple UI functionalities of gaming application.",
