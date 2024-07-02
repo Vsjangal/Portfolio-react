@@ -9,6 +9,15 @@ export const ProjectList = [
     demo_url: "https://gamespace-33gv.onrender.com/",
   },
   {
+    img: "./project5.png",
+    title: "Delivery restaurant",
+    description:
+      "In this project i have created a delivery restaurant which contains different menu item which you can add to cart and also added checkout pages.",
+    tech_stack: ["Redux", "ReactJs", "TailwindCss"],
+    github_url: "https://github.com/Vsjangal/Restaurent_delivery",
+    demo_url: "https://restaurent-delivery-livid.vercel.app/",
+  },
+  {
     img: "./project2.png",
     title: "Restaurent Website",
     description:

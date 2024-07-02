@@ -7,6 +7,7 @@ const Section = styled.div`
   padding: 4rem 0;
   background: #f9f9f9;
   text-align: center;
+  margin-bottom: 2rem;
 `;
 
 const SectionTitle = styled.div`
