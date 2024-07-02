@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/Portfolio-react/static/css/main.d08d26ec.css",
-    "main.js": "/Portfolio-react/static/js/main.74b5b98e.js",
+    "main.js": "/Portfolio-react/static/js/main.20288e0d.js",
     "static/media/project3.png": "/Portfolio-react/static/media/project3.b2bdd5fc70e7c5c212b4.png",
     "static/media/project2.png": "/Portfolio-react/static/media/project2.618ee1f337241301811d.png",
     "static/media/project1.png": "/Portfolio-react/static/media/project1.8b06e4ee3d4a4cf05711.png",
     "static/media/VijayJangal.png": "/Portfolio-react/static/media/VijayJangal.b3f2d3c4971e0d524c3d.png",
+    "static/media/project5.png": "/Portfolio-react/static/media/project5.dd3224a85abb05bf5bf6.png",
     "static/media/project4.png": "/Portfolio-react/static/media/project4.9d0d158ffaaef362aa5b.png",
     "static/media/scroll-down.svg": "/Portfolio-react/static/media/scroll-down.58c37d166563d77e9cdfaeb9838af3d2.svg",
     "index.html": "/Portfolio-react/index.html",
     "static/media/blob-haikei.svg": "/Portfolio-react/static/media/blob-haikei.50cf32a913bbd8763485.svg",
     "main.d08d26ec.css.map": "/Portfolio-react/static/css/main.d08d26ec.css.map",
-    "main.74b5b98e.js.map": "/Portfolio-react/static/js/main.74b5b98e.js.map"
+    "main.20288e0d.js.map": "/Portfolio-react/static/js/main.20288e0d.js.map"
   },
   "entrypoints": [
     "static/css/main.d08d26ec.css",
-    "static/js/main.74b5b98e.js"
+    "static/js/main.20288e0d.js"
   ]
 }
